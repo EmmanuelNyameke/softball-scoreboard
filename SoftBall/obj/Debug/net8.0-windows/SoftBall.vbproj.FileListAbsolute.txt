@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\SoftBall\bin\Debug\net8.0-windows\SoftBall.exe
+C:\Users\HELLO\Source\Repos\SoftBall\bin\Debug\net8.0-windows\SoftBall.deps.json
+C:\Users\HELLO\Source\Repos\SoftBall\bin\Debug\net8.0-windows\SoftBall.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\SoftBall\bin\Debug\net8.0-windows\SoftBall.dll
+C:\Users\HELLO\Source\Repos\SoftBall\bin\Debug\net8.0-windows\SoftBall.pdb
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.frmSoftball.resources
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.Resources.resources
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.dll
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\refint\SoftBall.dll
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.pdb
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\SoftBall.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\SoftBall\obj\Debug\net8.0-windows\ref\SoftBall.dll
